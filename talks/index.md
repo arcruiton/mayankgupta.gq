@@ -2,7 +2,4 @@
 layout: page
 title: Talks
 ---
-<div id="medium-widget"></div>
-    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@mayank79","postsPerLine":1,"limit":10,"picture":"big","fields":["description","claps","publishAt"],"ratio":"original"}})</script>
-
+<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@mayank79","postsPerLine":1,"limit":10,"picture":"big","fields":["description","claps","publishAt"],"ratio":"original"}})</script>
