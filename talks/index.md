@@ -2,4 +2,7 @@
 layout: page
 title: Talks
 ---
-<iframe src="https://medium.com/@mayank79" title="Medium"></iframe>
+<div id="medium-widget"></div>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@mayank79","postsPerLine":1,"limit":10,"picture":"big","fields":["description","claps","publishAt"],"ratio":"original"}})</script>
+
