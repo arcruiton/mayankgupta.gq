@@ -1,2 +1,2 @@
-# mayankgupta.gq
+# mayank.gq
 source for personal website
