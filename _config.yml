@@ -21,13 +21,13 @@ baseurl:
 
 author:
   name:           'Mayank Gupta'
-  url:            mayankgupta.gq
+  url:            mayank.gq
   email:          'mayankg.1997@gmail.com'
   github:         'https://github.com/arcruiton'
   facebook:       'http://www.facebook.com/knayamgupta'
   twitter:        'https://twitter.com/mayank1997gupta'
   googleplus:     'https://plus.google.com/u/0/+MayankGupta79'
-  linkedin:       'https://www.linkedin.com/in/knayamgupta'
+  linkedin:       'https://www.linkedin.com/in/mayank79'
 
 paginate:         3
 # paginate_path:    "/blog/page:num/"
