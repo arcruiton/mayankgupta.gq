@@ -1,1 +1,1 @@
-<a href="https://github.com/arcruiton/arcruiton.github.io/raw/master/MG%20resume%20fresh.pdf"></a>
+<embed src="http://mayank.gq/resume/1resume.pdf"/>
