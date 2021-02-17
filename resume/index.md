@@ -1,1 +1,1 @@
-<iframe src="/MG%resume%fresh.pdf"></iframe>
+<iframe href="{{ site.baseurl }}/MG%resume%fresh.pdf"></iframe>
