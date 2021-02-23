@@ -1,7 +1,6 @@
 <!--iframe src="/medium.html" frameborder="0" width = "100%" height = "800px" scrolling="no"></iframe!-->
 <div id="retainable-rss-embed" 
-data-rss="https://medium.com/feed/retainable,
-https://medium.com/feed/vue-mastery"
+data-rss="https://medium.com/retainable,https://medium.com/vue-mastery"
 data-maxcols="3" 
 data-layout="grid" 
 data-poststyle="inline" 
