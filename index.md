@@ -3,7 +3,7 @@
 data-rss="https://medium.com/feed/@mayank9"
 data-maxcols="5" 
 data-layout="slider" 
-data-poststyle="inline" 
+data-poststyle="modal" 
 data-readmore="Read more" 
 data-buttonclass="btn btn-primary" 
 data-offset="-100"></div>
