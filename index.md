@@ -1,7 +1,7 @@
 <!--iframe src="/medium.html" frameborder="0" width = "100%" height = "800px" scrolling="no"></iframe!-->
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@mayank9"
-data-maxcols="5" 
+data-maxcols="8" 
 data-layout="slider" 
 data-poststyle="modal" 
 data-readmore="Read more" 
