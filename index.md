@@ -2,9 +2,9 @@
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@mayank9"
 data-maxcols="3" 
-data-layout="grid" 
+data-layout="slider" 
 data-poststyle="inline" 
-data-readmore="Read the rest" 
+data-readmore="Read more" 
 data-buttonclass="btn btn-primary" 
 data-offset="-100"></div>
 
